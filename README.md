@@ -1,5 +1,4 @@
 # Car-Price-Prediction-Model
-Our repository focuses on estimating car prices in the US market, aiding a forward-thinking Chinese car manufacturer's entry into the US by local car production. Our insights empower them to outperform rivals.
 Welcome to our repository focused on predicting car prices in the US market.
 Our mission is to support a visionary Chinese car manufacturer entering the US market by local production.
 We aim to equip them with data-driven insights to surpass competitors.
